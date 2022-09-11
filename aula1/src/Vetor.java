@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ExercicioVetor {
+public class Vetor {
     public static void main(String[] args) {
         int[] numeros = new int[10];
         String[] letras = {"A", "B", "C", "D", "E"};
